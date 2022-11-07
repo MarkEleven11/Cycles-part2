@@ -42,6 +42,7 @@ public class Main {
         }
 
         ///Комбинация циклов и условных операторов.
+
         ///Task 1 and task 2.
         System.out.println("Task 1 and Task 2");
         float cashVasya = 15000f;
